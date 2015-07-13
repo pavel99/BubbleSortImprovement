@@ -1,0 +1,5 @@
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\BubbleSortImprovement\BubbleSortImprovement\bin\Debug\BubbleSortImprovement.exe.config
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\BubbleSortImprovement\BubbleSortImprovement\bin\Debug\BubbleSortImprovement.exe
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\BubbleSortImprovement\BubbleSortImprovement\bin\Debug\BubbleSortImprovement.pdb
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\BubbleSortImprovement\BubbleSortImprovement\obj\Debug\BubbleSortImprovement.exe
+C:\Users\Pavel99\Desktop\Sorting Algorithm\Buble Sort\BubbleSortImprovement\BubbleSortImprovement\obj\Debug\BubbleSortImprovement.pdb
